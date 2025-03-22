@@ -25,8 +25,6 @@ import org.jfree.data.xy.XYSeriesCollection;
 
 
 public class CISFrame extends ApplicationFrame {
-
-
     //private static boolean EIGHTBITS = false;
     private static boolean EIGHTBITS = true;
 
